@@ -56,15 +56,11 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 • LaTeX  
 • Matlab  
 ### Hardware
-• Printed Circuit Board Design / Altium Designer  
-• Hardware Welding and Debugging  
+• Printed Circuit Board (PCB) Design / Altium Designer  
+• PCB Welding and Debugging  
 • Power-driven Circuit Design (DC motor, steering gear)  
-• Wireless Communication Design (remote control, bluetooth, stop watch, etc.)  
-
-## Electronic Products Design
-• NXP Smart Car Competition     
-• Humanoid Robot Competition    
-• Challenge Cup    
+• Wireless Communication Design (remote control, blue tooth, stop watch)  
+  
 
 
 
