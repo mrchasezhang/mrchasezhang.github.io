@@ -18,12 +18,12 @@ My current research interests include AI for Science and Computational Imaging.
 • PolyU, 2024 - Present    
 &nbsp;  Ph.D. Student in Health Technology and Informatics  
 &nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
-&nbsp; Topics: Large Language Model, Community Detection, Genomics.
+&nbsp; Topics: Large Language Model, Community Detection.   
 
 • UESTC, 2020 - 2023  
 &nbsp;  Master of Informaiton and Communication Engineering  
 &nbsp; Advisor:  [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao)  
-&nbsp; Topics: Adaptive Optics, Inverse Problem, Computational Imaging.
+&nbsp; Topics: Adaptive Optics, Inverse Problem, Optical Flow Estimation.
 
 • NCIAE, 2016 - 2020  
 &nbsp;  Bachelor of Communication Engineering (Internet of Things branch)     
