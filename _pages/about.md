@@ -62,6 +62,9 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 • Wireless Communication Design (remote control, bluetooth, stop watch, etc.)  
 
 ## Electronic Products Design
+• NXP Smart Car Competition     
+• Humanoid Robot Competition    
+• Challenge Cup    
 
 
 
