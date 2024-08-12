@@ -15,7 +15,7 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 My current research interests include AI for Science and Computational Imaging.
 
 ## Education
-• PolyU, 2024 - Present
+• PolyU, 2024 - Present    
 &nbsp;  Ph.D. Student in Health Technology and Informatics  
 &nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
 &nbsp; Topics: Large Language Model, Community Detection, Genomics.
@@ -26,12 +26,12 @@ My current research interests include AI for Science and Computational Imaging.
 &nbsp; Topics: Adaptive Optics, Inverse Problem, Computational Imaging.
 
 • NCIAE, 2016 - 2020  
-&nbsp;  Bachelor of Communication Engineering (Internet of Things branch)
+&nbsp;  Bachelor of Communication Engineering (Internet of Things branch)     
 &nbsp; Topics: Embedded Programming, PID Control, Printed Circuit Design.
 
 ## Work Experience
 • HITSZ, 2021 - 2023  
-&nbsp;  Research Assistant (part-time)
+&nbsp;  Research Assistant (part-time)   
 &nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
 &nbsp; Topics: Biomedical Imaging, Deep Learning. 
 
@@ -40,7 +40,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 
 
 ## Patent
-• A cascade adaptive optical image blind restoration method.  
+• A Cascade Adaptive Optical Image Blind Restoration Method.  
 &nbsp; Shuai Wang, **Chi Zhang**, Jiangbo Bi.    
 &nbsp; China Patent CN116363014A, 2023.  
 
@@ -51,7 +51,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 ## Skills
 ### Programming
 • Python / PyTorch  
-• Embedded C (8/32-bit microcontroller)  
+• Embedded C (8/32-bit microcontrollers)  
 • Linux / Ubuntu  
 • LaTeX  
 • Matlab  
