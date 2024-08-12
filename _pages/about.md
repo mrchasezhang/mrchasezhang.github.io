@@ -61,7 +61,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 • Power-driven Circuit Design (DC motor, steering gear)  
 • Wireless Communication Design (remote control, bluetooth, stop watch, etc.)  
 
-## Competitions
+## Electronic Products Design
 
 
 
