@@ -14,16 +14,11 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 
 My current research interests include AI for Science and Computational Imaging.
 
-## Experiences
+## Education
 • PolyU, 2024 - Now  
-&nbsp;  Ph.D. Student   
+&nbsp;  Ph.D. Student in Health Technology and Informatics  
 &nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
 &nbsp; Topics: Large Language Model, Community Detection, Genomics.
-
-• HITSZ, 2021 - 2023  
-&nbsp;  Research Assistant  
-&nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
-&nbsp; Topics: Biomedical Imaging, Deep Learning.  
 
 • UESTC, 2020 - 2023  
 &nbsp;  Master of Informaiton and Communication Engineering  
@@ -34,6 +29,11 @@ My current research interests include AI for Science and Computational Imaging.
 &nbsp;  Bachelor of Communication Engineering  
 &nbsp; Topics: Embedded Programming, PID Control, Printed Circuit Design.
 
+## Work Experience
+• HITSZ, 2021 - 2023  
+&nbsp;  Research Assistant (part-time)
+&nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
+&nbsp; Topics: Biomedical Imaging, Deep Learning. 
 
 ## Publication 
 My publications are available via [Google Scholar](https://scholar.google.com/citations?user=s7WXQCsAAAAJ&hl=en).
