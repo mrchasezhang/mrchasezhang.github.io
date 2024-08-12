@@ -50,16 +50,16 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 
 ## Skills
 ### Programming
-• Python / PyTorch
-• Embedded C (8/32-bit Single Chip Micyoco)
-• Linux / Ubuntu
-• LaTeX
-• Matlab 
+• Python / PyTorch  
+• Embedded C (8/32-bit Single Chip Micyoco)  
+• Linux / Ubuntu  
+• LaTeX  
+• Matlab  
 ### Hardware
-• Printed Circuit Board Design / Altium Designer
-• Hardware welding and debugging
-• Power-driven circuit design (DC motor, steering gear)
-• Wireless communication Design (remote control, bluetooth, stop watch, etc.)
+• Printed Circuit Board Design / Altium Designer  
+• Hardware welding and debugging  
+• Power-driven circuit design (DC motor, steering gear)  
+• Wireless communication Design (remote control, bluetooth, stop watch, etc.)  
 
 ## Competitions
 
