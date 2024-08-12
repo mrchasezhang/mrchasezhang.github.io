@@ -15,7 +15,7 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 My current research interests include AI for Science and Computational Imaging.
 
 ## Education
-• PolyU, 2024 - Now  
+• PolyU, 2024 - Present
 &nbsp;  Ph.D. Student in Health Technology and Informatics  
 &nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
 &nbsp; Topics: Large Language Model, Community Detection, Genomics.
@@ -47,6 +47,13 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 
 ## Reviewers:
 • International Conference on Machine Learning 2024 (ICML) - Workshop of AI for Science.
+
+## Skills
+### Programming
+### Hardware
+
+
+## Competitions
 
 
 
