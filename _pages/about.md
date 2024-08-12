@@ -26,7 +26,7 @@ My current research interests include AI for Science and Computational Imaging.
 &nbsp; Topics: Adaptive Optics, Inverse Problem, Computational Imaging.
 
 • NCIAE, 2016 - 2020  
-&nbsp;  Bachelor of Communication Engineering  
+&nbsp;  Bachelor of Communication Engineering (Internet of Things branch)
 &nbsp; Topics: Embedded Programming, PID Control, Printed Circuit Design.
 
 ## Work Experience
@@ -51,7 +51,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 ## Skills
 ### Programming
 • Python / PyTorch  
-• Embedded C (8/32-bit Single Chip Micyoco)  
+• Embedded C (8/32-bit Microcontroller)  
 • Linux / Ubuntu  
 • LaTeX  
 • Matlab  
