@@ -51,7 +51,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 ## Skills
 ### Programming
 • Python / PyTorch  
-• Embedded C, 8/32-bit microcontrollers     
+• Embedded C / microcontrollers     
 • Linux / Ubuntu  
 • LaTeX  
 • Matlab  
