@@ -12,7 +12,7 @@ I am Chi Zhang, currently a first-year Ph.D. Student in the Department of Health
 
 I got my M.S. degree (2023) from School of Information and Communication Engineering of University of Electronic Science and Technology of China (UESTC), a member of [MediaLab](https://medialab.uestc.edu.cn/), where I was fortunate to work with [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao). Before came to UESTC, I got my B.S. degree (2020) of Communication Engineering in North China Institute of Aerospace Engineering (NCIAE). I was also a part-time research assistant at the School of Science, Harbin Institute of Technology, Shenzhen (HITSZ), where I am grateful to collaborate with [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang) from 2021 to 2023.
 
-My current research interests include AI for Science, including computational biology and computational imaging.
+My current research interest is ai for science, including computational biology and computational imaging.
 
 ## Education
 • PolyU, 2024 - Present    
