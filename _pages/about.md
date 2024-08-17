@@ -18,7 +18,7 @@ My current research interests include AI for Science, including computational bi
 • PolyU, 2024 - Present    
 &nbsp;  Ph.D. Student in Health Technology and Informatics  
 &nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
-&nbsp; Topics: Large Language Model, Community Detection.   
+&nbsp; Topics: Large Language Model, Community Detection, Genomics.   
 
 • UESTC, 2020 - 2023  
 &nbsp;  Master of Informaiton and Communication Engineering  
