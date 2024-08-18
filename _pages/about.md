@@ -59,8 +59,8 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 • Printed Circuit Board (PCB) Design / Altium Designer    
 • PCB Welding and Debugging    
 • Power-driven Circuit Design    
-• Wireless Communication Design    
-• CCD & CMOS   
+• Short-range Wireless Communication Design    
+
 
   
 
