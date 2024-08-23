@@ -15,22 +15,22 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 My current research interest is AI for science, including computational biology and computational imaging.
 
 ## Education
-• PolyU, 2024 - Present    
+• PolyU, May 2024 - Present    
 &nbsp;  Ph.D. Student in Health Technology and Informatics  
 &nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
 &nbsp; Topics: Large Language Model, Community Detection, Genomics.   
 
-• UESTC, 2020 - 2023  
+• UESTC, Sept. 2020 - Jun. 2023  
 &nbsp;  Master of Informaiton and Communication Engineering  
 &nbsp; Advisor:  [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao)  
 &nbsp; Topics: Adaptive Optics, Inverse Problem, Deep Learning.
 
-• NCIAE, 2016 - 2020  
+• NCIAE, Sept. 2016 - Jun. 2020  
 &nbsp;  Bachelor of Communication Engineering (Internet of Things branch)     
 &nbsp; Topics: Embedded Programming, PID Control, Printed Circuit Design.
 
 ## Work Experience
-• HITSZ, 2021 - 2023  
+• HITSZ, May 2021 - Nov. 2023  
 &nbsp;  Research Assistant (part-time)   
 &nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
 &nbsp; Topics: Biomedical Imaging, Deep Learning. 
