@@ -14,26 +14,22 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 
 
 ## Education
-• PolyU    
-&nbsp;  May 2024 - Present     
+• PolyU  May 2024 - Present     
 &nbsp;  Ph.D. Student in Health Technology and Informatics  
 &nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
 &nbsp; Topics: Large Language Model, Community Detection, Genomics.   
 
-• UESTC    
-&nbsp;  Sept. 2020 - Jun. 2023      
-&nbsp;  Master of Electronic Information Engineering 
+• UESTC  Sept. 2020 - Jun. 2023      
+&nbsp;  Master of Electronic Information Engineering     
 &nbsp; Advisor:  [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao)  
 &nbsp; Topics: Deep Learning, Adaptive Optics, Inverse Problem.
 
-• NCIAE    
-&nbsp;  Sept. 2016 - Jun. 2020     
+• NCIAE  Sept. 2016 - Jun. 2020  
 &nbsp;  Bachelor of Communication Engineering (Internet of Things branch)     
 &nbsp; Topics: Embedded Programming, PID Control, Printed Circuit Design.
 
 ## Work Experience
-• HITSZ    
-&nbsp;  May 2021 - Nov. 2023     
+• HITSZ  May 2021 - Nov. 2023     
 &nbsp;  Research Assistant (part-time)   
 &nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
 &nbsp; Topics: Biomedical Imaging, Deep Learning. 
