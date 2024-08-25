@@ -10,7 +10,7 @@ redirect_from:
 
 I am Chi Zhang, currently a first-year Ph.D. Student in the Department of Health Technology and Informatics at Hong Kong Polytechnic University (PolyU), a member of [JC STEM Laboratory for Genomics and AI](https://genomicmedicine.github.io/site/#/), where I am honored to work with [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/).
 
-I got my M.S. degree (2023) from School of Information and Communication Engineering of University of Electronic Science and Technology of China (UESTC), a member of [MediaLab](https://medialab.uestc.edu.cn/), where I was fortunate to work with [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao). Before came to UESTC, I got my B.S. degree (2020) of Communication Engineering in North China Institute of Aerospace Engineering (NCIAE). I was also a part-time research assistant at the School of Science, Harbin Institute of Technology, Shenzhen (HITSZ), where I am grateful to collaborate with [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang) from 2021 to 2023.
+I got my M.Eng. degree (2023) from School of Information and Communication Engineering of University of Electronic Science and Technology of China (UESTC), a member of [MediaLab](https://medialab.uestc.edu.cn/), where I was fortunate to work with [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao). Before came to UESTC, I got my B.Eng. degree (2020) of Communication Engineering in North China Institute of Aerospace Engineering (NCIAE). I was also a part-time research assistant at the School of Science, Harbin Institute of Technology, Shenzhen (HITSZ), where I am grateful to collaborate with [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang) from 2021 to 2023.
 
 
 ## Education
@@ -25,7 +25,7 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 &nbsp; Topics: Deep Learning, Adaptive Optics, Inverse Problem.
 
 • NCIAE  Sept. 2016 - Jun. 2020  
-&nbsp;  Bachelor of Communication Engineering (Internet of Things branch)     
+&nbsp;  Bachelor of Communication Engineering   
 &nbsp; Topics: Embedded Programming, PID Control, Printed Circuit Design.
 
 ## Work Experience
