@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Nice to meet you here!    
 
 I am Chi Zhang, currently a first-year Ph.D. Student in the Department of Health Technology and Informatics at Hong Kong Polytechnic University (PolyU), a member of [JC STEM Laboratory of Genomics and AI](https://genomicmedicine.github.io/site/#/), where I am honored to work with [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/).
 
