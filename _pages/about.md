@@ -43,7 +43,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 
 
 ## Reviewers:
-• International Conference on Machine Learning 2024 (ICML) - AI for Science Workshop.
+• ICML2024 - AI for Science Workshop.
 
 ## Skills
 ### Programming
