@@ -42,8 +42,10 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 &nbsp; China Patent CN116363014A, 2023.  
 
 
-## Reviewers:
-• ICML2024 - AI for Science Workshop.
+## Reviewers   
+### Conference    
+• ICML2024 - AI for Science Workshop
+### Journal   
 
 ## Skills
 ### Programming
