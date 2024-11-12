@@ -20,7 +20,7 @@ I got my M.Eng. degree (2023) from School of Information and Communication Engin
 &nbsp; Topics: Large Language Model, Community Detection, Genomics.   
 
 • UESTC,  Sept. 2020 - Jun. 2023      
-&nbsp;  Master of Electronic Information Engineering       
+&nbsp;  Master of Information and Communication Engineering       
 &nbsp; Topics: Deep Learning, Adaptive Optics, Inverse Problem.
 
 • NCIAE,  Sept. 2016 - Jun. 2020  
