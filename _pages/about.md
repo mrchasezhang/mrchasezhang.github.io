@@ -17,11 +17,11 @@ I got my M.Eng. degree (2023) from School of Information and Communication Engin
 ## Education
 • PolyU,  May 2024 - Present     
 &nbsp;  Ph.D. Student in Health Technology and Informatics      
-&nbsp; Topics: Large Language Model, Community Detection, Genomics.   
+&nbsp; Topics: Large Language Model, Community Detection, AI for Science.   
 
 • UESTC,  Sept. 2020 - Jun. 2023      
 &nbsp;  Master of Information and Communication Engineering       
-&nbsp; Topics: Deep Learning, Adaptive Optics, Inverse Problem.
+&nbsp; Topics: Adaptive Optics, Inverse Problem, Deep Learning.
 
 • NCIAE,  Sept. 2016 - Jun. 2020  
 &nbsp;  Bachelor of Communication Engineering   
@@ -30,7 +30,7 @@ I got my M.Eng. degree (2023) from School of Information and Communication Engin
 ## Work Experience
 • HITSZ,  May 2021 - Nov. 2023     
 &nbsp;  Research Assistant (part-time)      
-&nbsp; Topics: Biomedical Imaging, Deep Learning. 
+&nbsp; Topics: Microscopic Imaging, Generative Model. 
 
 ## Publication 
 My publications are available via [Google Scholar](https://scholar.google.com/citations?user=s7WXQCsAAAAJ&hl=en).
