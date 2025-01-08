@@ -16,11 +16,11 @@ I got my M.Eng. degree (2023) from School of Information and Communication Engin
 
 ## Education
 • PolyU,  May 2024 - Present     
-&nbsp;  Ph.D. Student in Health Technology and Informatics      
+&nbsp;  Ph.D. Student of Medical Laboratory Science        
 &nbsp; Topics: Large Language Model, Community Detection, AI for Science.   
 
 • UESTC,  Sept. 2020 - Jun. 2023      
-&nbsp;  Master of Information and Communication Engineering       
+&nbsp;  Master of Electronic Information Engineering   
 &nbsp; Topics: Adaptive Optics, Inverse Problem, Deep Learning.
 
 • NCIAE,  Sept. 2016 - Jun. 2020  
