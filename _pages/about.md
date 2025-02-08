@@ -33,7 +33,7 @@ I got my M.Eng. degree (2023) from School of Information and Communication Engin
 &nbsp; Topics: Microscopic Imaging, Generative Model. 
 
 ## Publication 
-My publications are available via [Google Scholar](https://scholar.google.com/citations?user=s7WXQCsAAAAJ&hl=en).
+My publications are available via [Google Scholar](https://scholar.google.com/citations?user=s7WXQCsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Chi-Zhang-490/research).
 
 
 ## Patent
