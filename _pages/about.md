@@ -37,7 +37,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 
 
 ## Patent
-• A Cascade Adaptive Optical Image Blind Restoration Method.  
+• A Cascade Method for Adaptive Optics Image Blind Restoration.  
 &nbsp; Shuai Wang, **Chi Zhang**, Jiangbo Bi.    
 &nbsp; China Patent CN116363014A, 2023.  
 
